@@ -10,7 +10,7 @@ const font = Nunito({ subsets: ["latin"] });
 export const metadata: Metadata = {
     title: `${SITENAME} - Video Bokep Indo Viral Terbaru`,
     description: `${SITENAME} Video bokep indo jepang indonesia barat terbaru viral korea simontok china tante live sma paksa ngentot abg jilbab cewek bocil smp pijat pelajar.`,
-    metadataBase: new URL("https://bociltoge.pages.dev"),
+    metadataBase: new URL("https://bociljilbab.pages.dev"),
     alternates: {
         canonical: `/`,
     },
@@ -38,12 +38,12 @@ export default function RootLayout({
         "@type": "Organization",
         "name": `${SITENAME}`,
         "description": `${SITENAME} Video bokep indo jepang indonesia barat terbaru viral korea simontok china tante live sma paksa ngentot abg jilbab cewek bocil smp pijat pelajar.`,
-        "logo": "https://bociltoge.pages.dev/favicon.ico",
-        "url": "https://bociltoge.pages.dev",
+        "logo": "https://bociljilbab.pages.dev/favicon.ico",
+        "url": "https://bociljilbab.pages.dev",
         "founder":{
             "@type":"Person",
             "name":"admin",
-            "url":"https://bociltoge.pages.dev"
+            "url":"https://bociljilbab.pages.dev"
             },
             "foundingDate":"2024-01-09"
         }
@@ -51,22 +51,22 @@ export default function RootLayout({
             "@context": "https://schema.org",
         "@type": "WebPage",
         "name": `${SITENAME}`,
-        "url": "https://bociltoge.pages.dev",
+        "url": "https://bociljilbab.pages.dev",
         "description": `${SITENAME} Video bokep indo jepang indonesia barat terbaru viral korea simontok china tante live sma paksa ngentot abg jilbab cewek bocil smp pijat pelajar.`,
-        "image": "https://bociltoge.pages.dev/favicon.ico",
+        "image": "https://bociljilbab.pages.dev/favicon.ico",
         "potentialAction":{
             "@type":"ReadAction",
-            "target":"https://bociltoge.pages.dev"}
+            "target":"https://bociljilbab.pages.dev"}
         }
         const jsonLd2 = {
             "@context": "https://schema.org",
         "@type": "WebSite",
         "name": `${SITENAME}`,
-        "url": "https://bociltoge.pages.dev",
+        "url": "https://bociljilbab.pages.dev",
         "description": `${SITENAME} Video bokep indo jepang indonesia barat terbaru viral korea simontok china tante live sma paksa ngentot abg jilbab cewek bocil smp pijat pelajar.`,
         "potentialAction": { 
         "@type": "SearchAction", 
-          "target": "https://bociltoge.pages.dev/?q={search_term}", 
+          "target": "https://bociljilbab.pages.dev/?q={search_term}", 
             "query-input": "required name=search_term"}
         }
     return (
